@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+#titolo{
+    color: gray;
+}
+#primo_numero_S{
+    color: blue;
+}
+#secondo_numero_S{
+    color: blue;
+}
+#risultato{
+    color: red;
+}
+#calcola{
+    background-color: white;
+}
+button{
+    background-color: white;
+    margin-top: 0.1cm;
+    margin-bottom: 0.1cm;
+    margin-right: 0.1cm;
+    margin-left: 0.1cm;
+}
